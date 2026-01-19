@@ -60,7 +60,7 @@ Layout da placa dedicada aos sensores infravermelhos, projetada para garantir al
 
 Esquemático completo da placa principal, integrando microcontrolador, drivers de motor, sensores, memória e interfaces de comunicação.
 
-![PCB Principal – Esquemático] (https://github.com/alopes010705-lang/Line-Following-robot/blob/9a0f05b358b7ff0de1ff0830b5ed072099c39feb/docs/images/pcb_principal_esquematico.jpg)
+![PCB Principal – Esquemático](https://github.com/alopes010705-lang/Line-Following-robot/blob/9a0f05b358b7ff0de1ff0830b5ed072099c39feb/docs/images/pcb_principal_esquematico.jpg)
 
 ---
 
