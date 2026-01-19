@@ -51,7 +51,7 @@ Conjunto de 15 sensores infravermelhos QRE-1113 com condicionamento de sinal e l
 
 Layout da placa dedicada aos sensores infravermelhos, projetada para garantir alinhamento, simetria e redução de ruído.
 
-![Sensores IR – PCB](docs/images/sensores_ir_pcb.png)
+![Sensores IR – PCB](docs/images/sensores_ir_pcb.jpg)
 
 ---
 
