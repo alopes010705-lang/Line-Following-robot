@@ -44,7 +44,7 @@ Os motores utilizados são brushless modelo **1404**, acionados por dois drivers
 
 Conjunto de 15 sensores infravermelhos QRE-1113 com condicionamento de sinal e leitura via ADCs externos.
 
-![Sensores IR – Esquemático](https://github.com/alopes010705-lang/Line-Following-robot/blob/9a0f05b358b7ff0de1ff0830b5ed072099c39feb/docs/images/pcb_principal_esquematico.jpg)
+![Sensores IR – Esquemático](https://github.com/alopes010705-lang/Line-Following-robot/blob/9a0f05b358b7ff0de1ff0830b5ed072099c39feb/docs/images/sensores_ir_esquematico.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ Conjunto de 15 sensores infravermelhos QRE-1113 com condicionamento de sinal e l
 
 Layout da placa dedicada aos sensores infravermelhos, projetada para garantir alinhamento, simetria e redução de ruído.
 
-![Sensores IR – PCB](docs/images/sensores_ircurvas.png)
+![Sensores IR – PCB](https://github.com/alopes010705-lang/Line-Following-robot/blob/9a0f05b358b7ff0de1ff0830b5ed072099c39feb/docs/images/sensores_ir_pcb.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Esquemático completo da placa principal, integrando microcontrolador, drivers d
 
 Layout final da PCB principal, com separação entre áreas de potência e sinal, planos de terra e roteamento otimizado.
 
-![PCB Principal – Layout](docs/images/pcb_principal_top.png)
+![PCB Principal – Layout](https://github.com/alopes010705-lang/Line-Following-robot/blob/9a0f05b358b7ff0de1ff0830b5ed072099c39feb/docs/images/pcb_principal_top.jpg)
 
 ---
 
