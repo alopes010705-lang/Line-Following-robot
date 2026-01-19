@@ -44,7 +44,7 @@ Os motores utilizados são brushless modelo **1404**, acionados por dois drivers
 
 Conjunto de 15 sensores infravermelhos QRE-1113 com condicionamento de sinal e leitura via ADCs externos.
 
-![Sensores IR – Esquemático]([docs/images/sensores_ir_esquematico.png](https://github.com/alopes010705-lang/Line-Following-robot/blob/9a0f05b358b7ff0de1ff0830b5ed072099c39feb/docs/images/pcb_principal_esquematico.jpg))
+![Sensores IR – Esquemático](https://github.com/alopes010705-lang/Line-Following-robot/blob/9a0f05b358b7ff0de1ff0830b5ed072099c39feb/docs/images/pcb_principal_esquematico.jpg)
 
 ---
 
