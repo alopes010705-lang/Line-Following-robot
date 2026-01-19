@@ -1,3 +1,9 @@
+docs/images/sensores_ir_esquematico.png
+docs/images/sensores_ir_pcb.png
+docs/images/pcb_principal_esquematico.png
+docs/images/pcb_principal_top.png
+
+
 # Line-Following-robot
 Este projeto consiste no desenvolvimento de um perseguidor de linha profissional e competitivo, utilizando motores brushless com controle FOC, sensores infravermelhos, encoders e giroscópio. O sistema é baseado em ESP32, com capacidade de mapear a pista e otimizar o desempenho em curvas e retas.
 
